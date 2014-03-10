@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "WeddingPlanners": {
+            "applicationId": "UWIS4AWLk6pRVU5tVoIpAAiwJfHgz1EdJcyys3wA", 
+            "masterKey": "uyHvVBSt2ynjC5XBjZ0vn7q0OyMCI6M4A5M7I5V8"
+        }, 
+        "_default": {
+            "link": "WeddingPlanners"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.17"
+    }
+}
